@@ -1,75 +1,34 @@
-Hi, I'm David 👋
+# Hi, I'm David Yemoh
 
-🎓 Computer information student at Brigham Young University–Idaho
-💼  IT Professional | Tech Enthusiast
-🚀 Building projects in Cloud, Cybersecurity, Automation, and Product Solutions
-🌍 Passionate about using technology to solve real-world business problems
+**Computer Information Technology student at BYU–Idaho · Graduating in 2028**
 
-🚀 About Me
+I'm building practical skills in IT support, networking, and cybersecurity. My background in technical support and customer service has taught me to listen carefully, troubleshoot problems, and explain solutions clearly.
 
-I’m a technology-driven professional with experience in IT operations, product management, customer support, and technical solutions. My background combines business strategy with technical execution, allowing me to work across both business and technology teams.
+Based in **Rexburg, Idaho**, I'm looking for IT internship opportunities, with a preference for remote work and openness to onsite roles.
 
-Currently, I’m focused on:
+## Certifications
 
-Business Analytics
-Cybersecurity
-Cloud Computing
-Product Management
-Automation & AI
-DevOps & Docker
+- **CompTIA Security+ (SY0-701)** — July 2025
+- **eJPT** — February 2026
 
-I enjoy building systems, improving workflows, solving problems, and learning new technologies.
+## Explore my work
 
-🛠️ Technologies & Tools im interested in.
-Languages
-Python
-JavaScript
-HTML
-CSS
-SQL
-Cloud & DevOps
-AWS
-Docker
-Git & GitHub
-Linux
-Terraform
-Analytics & Product Tools
-Power BI
-Excel
-Jira
-TeamDynamix
-Cybersecurity & Networking
-Cisco Networking
-Wireshark
-ACLs & VLANs
-Security+
-VPN Technologies
-📌 Featured Projects
-🔐 Outline VPN on AWS
+| Repository | What you'll find |
+| --- | --- |
+| [Portfolio website](https://github.com/dyemoh1/portfolio-site) | My personal website, built with HTML and CSS. |
+| [C# coursework](https://github.com/dyemoh1/cse210-projects) | Programming exercises and project folders from CSE 210 at BYU–Idaho. |
+| [Web development coursework](https://github.com/dyemoh1/wdd130) | HTML and CSS coursework, page layouts, and website exercises. |
 
-Built and deployed a secure Outline VPN server using Docker on AWS VPS infrastructure.
+## Hands-on interests
 
-📅 Campus Room Reservation System
+- **Networking and security:** deploying Outline VPN with Docker for secure browsing and remote access.
+- **Application development:** building a basic mobile application using Firebase.
+- **IT support:** troubleshooting systems and helping people use technology effectively.
 
-Developed a reservation management system for campus facilities using Python.
+## Tools and technologies
 
-☁️ BioDrop
+Python · Linux · Windows · Docker · Firebase · HTML · CSS · Git & GitHub
 
-Dockerized application project with CI/CD and container deployment workflows.
+## Connect
 
-🔥 Firebase Authentication App
-
-Created an application to learn Firebase services and authentication systems.
-
-📈 Current Goals
-Build a strong technical portfolio
-Grow in Product Management & Business Analytics
-Master Cloud & Cybersecurity technologies
-Contribute to open-source projects
-Develop scalable technology solutions
-📫 Connect With Me
-GitHub: dyemoh1 GitHub
-LinkedIn: (www.linkedin.com/in/david-yemoh-479b7a281)
-⚡ Fun Fact
-
-I enjoy learning technology from the ground up and turning ideas into real-world solutions through discipline, consistency, and continuous growth.
+[LinkedIn](https://www.linkedin.com/in/david-yemoh-479b7a281/) · [GitHub repositories](https://github.com/dyemoh1?tab=repositories)
