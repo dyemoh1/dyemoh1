@@ -1,7 +1,7 @@
 Hi, I'm David 👋
 
-🎓 Business Analytics & Cybersecurity Student at Brigham Young University–Idaho
-💼 Product Manager | IT Professional | Tech Enthusiast
+🎓 Computer information student at Brigham Young University–Idaho
+💼  IT Professional | Tech Enthusiast
 🚀 Building projects in Cloud, Cybersecurity, Automation, and Product Solutions
 🌍 Passionate about using technology to solve real-world business problems
 
