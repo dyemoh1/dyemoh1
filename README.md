@@ -4,8 +4,7 @@
 
 I'm building practical skills in IT support, networking, and cybersecurity. My background in technical support and customer service has taught me to listen carefully, troubleshoot problems, and explain solutions clearly.
 
-Based in **Rexburg, Idaho**, I'm looking for IT internship opportunities, with a preference for remote work and openness to onsite roles.
-
+Based in **Rexburg, Idaho**, I'm looking for IT internship opportunities, to add to my experience.
 ## Certifications
 
 - **CompTIA Security+ (SY0-701)** — July 2025
